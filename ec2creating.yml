@@ -14,6 +14,8 @@
      count: 1
      region: ap-south-1
      security_group: sunday
+     aws_access_key: AKIARL3WFYBFJM7NKWCP
+     Aws_secret_key: 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
 
    tasks:
 
