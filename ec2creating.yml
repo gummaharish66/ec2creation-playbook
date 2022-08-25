@@ -1,6 +1,6 @@
 ---
  - name:  provisioning EC2 instances using Ansible
-   hosts: servera.lab.example.com
+   hosts: localhost
    connection: local
    gather_facts: False
    tags: provisioning
